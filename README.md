@@ -15,9 +15,9 @@ Note: Megaline rounds seconds up to minutes, and megabytes to gigabytes. For cal
 1. Monthly charge: $20
 2. 500 monthly minutes, 50 texts, and 15 GB of data
 3. After exceeding the package limits:
- - 1 minute: 3 cents
- - 1 text message: 3 cents
- - 1 GB of data: $10
+  - 1 minute: 3 cents
+  - 1 text message: 3 cents
+  - 1 GB of data: $10
   
 ## Ultimate
 
