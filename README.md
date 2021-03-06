@@ -3,25 +3,21 @@
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
-| I work as an analyst for the telecom operator Megaline.The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of\
-the plans brings in more revenue in order to adjust the advertising budget. Given data on 500 Megaline clients for the year 2018, my job is to analyze clients' behavior and\
-determine which prepaid plan brings in more revenue. | *pandas*, *matplotlib.pyplot*, *functools*, *numpy*, *scipy* | Practicum by Yandex |
+| I work as an analyst for the telecom operator Megaline.The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. Given data on 500 Megaline clients for the year 2018, my job is to analyze clients' behavior and determine which prepaid plan brings in more revenue. | *pandas*, *matplotlib.pyplot*, *functools*, *numpy*, *scipy* | Practicum by Yandex |
 
 
 ## Description of the plans
 
-Note: Megaline rounds seconds up to minutes, and megabytes to gigabytes. For calls, each individual call is rounded up: even if the call lasted just one second, it will be\
-counted as one minute. For web traffic, individual web sessions are not rounded up. Instead, the total for the month is rounded up. If someone uses 1025 megabytes this month,\
-they will be charged for 2 gigabytes.
+Note: Megaline rounds seconds up to minutes, and megabytes to gigabytes. For calls, each individual call is rounded up: even if the call lasted just one second, it will be counted as one minute. For web traffic, individual web sessions are not rounded up. Instead, the total for the month is rounded up. If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.
 
 ## Surf
 
 1. Monthly charge: $20
 2. 500 monthly minutes, 50 texts, and 15 GB of data
 3. After exceeding the package limits:
-  - 1 minute: 3 cents
-  - 1 text message: 3 cents
-  - 1 GB of data: $10
+ - 1 minute: 3 cents
+ - 1 text message: 3 cents
+ - 1 GB of data: $10
   
 ## Ultimate
 
@@ -35,9 +31,7 @@ they will be charged for 2 gigabytes.
 
 ## Description of Data
 
-Remember! Megaline rounds seconds up to minutes, and megabytes to gigabytes. For **calls**, each individual call is rounded up: even if the call lasted just one second,\
-it will be counted as one minute. For **web traffic**, individual web sessions are not rounded up. Instead, the total for the month is rounded up.\
-If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.
+Remember! Megaline rounds seconds up to minutes, and megabytes to gigabytes. For **calls**, each individual call is rounded up: even if the call lasted just one second, it will be counted as one minute. For **web traffic**, individual web sessions are not rounded up. Instead, the total for the month is rounded up. If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.
 
 #### The `users` table (data on users):
 
