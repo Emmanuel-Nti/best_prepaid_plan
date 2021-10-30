@@ -1,4 +1,4 @@
-# Best Prepaid Plan for the Telecom Operator Megaline
+# Best Prepaid Plan for Megaline
 <p align ="center">
    <img src = "images/plan.png" width="800" 
      height="400">
