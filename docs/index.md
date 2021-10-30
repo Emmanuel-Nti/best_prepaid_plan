@@ -1,7 +1,7 @@
 # Best Prepaid Plan for the Telecom Operator Megaline
 <p align ="center">
-   <img src = "images/plan.png" width="1000" 
-     height="450">
+   <img src = "images/plan.png" width="800" 
+     height="400">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/best_prepaid_plan/blob/master/Assessing_Best_Prepaid_Plan_Nti.ipynb)
 
