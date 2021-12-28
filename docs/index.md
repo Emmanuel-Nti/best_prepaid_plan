@@ -3,9 +3,10 @@
    <img src = "images/plan.png" width="800" 
      height="400">
  </p>
+ 
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/best_prepaid_plan/blob/master/Assessing_Best_Prepaid_Plan_Nti.ipynb)
 
-## How I Approached the Project
+#### How I Approached the Project
 - Importation of the data and libraries
 - Preprocessed the data 
 - Analyze the data
@@ -13,7 +14,7 @@
 - Tested the hypotheses
 - Conclusion and Recommendation
  
-## General Findings
+#### General Findings
 - Aside January and February 2018, the Surf plan always generated higher monthly revenues than the Ultimate plan.
 - The monthly revenues for both Surf and Ultimate plans increased monotonically in 2018.
 - A good number of customers on the Surf plan exceed their package limits, thus, most Surt plan clients generate additional revenues. However, only few customers patronizing the Ultimate data plan exceed their package limits, hence, only few ultimate customers generate additional revenues.
@@ -22,12 +23,10 @@
 - The average revenue from users of Ultimate and Surf calling plans differs.
 - The average revenue from users in the New York area is different from that of the users from other regions.
 
-## Recommendation
+#### Recommendation
 - Adjust advertising budget to favour the Surf plan
 
-## Libraries Used
-- Pandas 
-- Numpy 
-- Matplotlib
-- Functools 
-
+#### Software and Tools
+![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Pandas-Numpy-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Functools-Display-informational?style=flat&color=2bbc8a)
